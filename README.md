@@ -1,9 +1,9 @@
 # COM2023: Natural Language Processing
 
-**Colab**
+##Colab
 
-**Pytorch**
+##Pytorch
 
-**Assignment-1**
+##Assignment-1
 
-**Assignment-2**
+##Assignment-2
