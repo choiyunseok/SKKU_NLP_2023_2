@@ -1,9 +1,14 @@
 # COM2023: Natural Language Processing
 
-##Colab
+This repository contains materials for the COM2023 Natural Language Processing course at Sungkyunkwan University.
 
-##Pytorch
+## Technologies Used
 
-##Assignment-1
+- [Colab](https://colab.research.google.com/)
+- [Pytorch](https://pytorch.org/)
 
-##Assignment-2
+## Assignments List
+
+### Assignment1
+- Description: Text classification with the torch library.
+- [Assignment Link](https://github.com/choiyunseok/SKKU_NLP_2023_2/blob/main/Assignment-1/text_sentiment_ngrams_tutorial.ipynb)
