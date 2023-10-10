@@ -9,6 +9,6 @@ This repository contains materials for the COM2023 Natural Language Processing c
 
 ## Assignments List
 
-### Assignment1
+### Assignment#1
 - Description: Text classification with the torch library.
 - [Assignment Link](https://github.com/choiyunseok/SKKU_NLP_2023_2/blob/main/Assignment-1/text_sentiment_ngrams_tutorial.ipynb)
